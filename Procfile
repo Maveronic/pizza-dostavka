@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web gunicorn pizza_delivery.wsgi --log-file
+web gunicorn pizza_delivery.wsgi --log-file -
