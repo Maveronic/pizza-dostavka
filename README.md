@@ -10,4 +10,4 @@ This is a Pizza Delivery (Dostavka) API implemeted using Django Rest Framework(D
 - Create you database with `python manage.py runserver` 
 - Finally, run the API with
 ``` 
-- python manage.py runserver ``
+- python manage.py runserver
